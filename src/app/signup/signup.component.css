@@ -1,0 +1,28 @@
+.background-left {
+    background-color: rgb(132, 248, 55);
+    background-image: url('/assets/bkg-6.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left bottom;
+}
+
+.background-right {
+    background-color: rgb(132, 248, 55);
+}
+
+.card {
+    background-color: transparent;
+    color: #ffff;
+}
+
+.text-muted {
+    color: #ffff;
+}
+
+.btn[value=submit] {
+    border-radius: 50px;
+}
+
+h1 {
+    color: #0f0f0f
+}
